@@ -1,0 +1,6 @@
+export * from './danish_divisor'
+export * from './dhondt_divisor'
+export * from './divisor'
+export * from './huntington_hill_divisor'
+export * from './imperiali_divisor'
+export * from './sainte_lague_divisor'

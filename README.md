@@ -1,6 +1,9 @@
 # highest-averages
 This is set of highest averages methods for allocating seats in a parliament.
-
+### Install
+```shell
+npm i highest-averages
+```
 ### Pure Example
 - Define the candidates with their vote
 ```typescript

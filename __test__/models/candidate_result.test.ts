@@ -1,8 +1,4 @@
-import { CandidateResult } from '../../src/models/candidate_result'
-import { Candidate } from '../../src/models/candidate'
-import { IndependentPolitician } from '../../src/models/independent_politician'
-import { PoliticalParty } from '../../src/models/political_party'
-import { InvalidVotes } from '../../src/models/invalid_votes'
+import { CandidateResult, Candidate, IndependentPolitician, PoliticalParty, InvalidVotes } from '../../src'
 
 describe("constructor", () => {
     it("should calculate percentage", () => {

@@ -1,5 +1,5 @@
 import "../../src/extensions/map_extensions"
-import { Pair } from "../../src/utilities/pair"
+import { Pair } from '../../src'
 
 describe("getOrElse", () => {
     it("should return item in map", () => {

@@ -1,8 +1,4 @@
-import { PoliticalParty } from '../../src/models/political_party'
-import { SanMarino2019 } from '../../src/elections/san_marino'
-import { InvalidVotes } from '../../src/models/invalid_votes'
-import { CandidateResult } from '../../src/models/candidate_result'
-import { Candidate } from '../../src/models/candidate'
+import { PoliticalParty, SanMarino2019, InvalidVotes, CandidateResult, Candidate } from '../../src'
 
 describe('san marino', () => {
   it('2019', () => {
