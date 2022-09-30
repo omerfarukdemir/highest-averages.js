@@ -1,8 +1,4 @@
-import { PoliticalParty } from '../../src/models/political_party'
-import { InvalidVotes } from '../../src/models/invalid_votes'
-import { CandidateResult } from '../../src/models/candidate_result'
-import { Dutch2021 } from '../../src/elections/dutch'
-import { Candidate } from '../../src/models/candidate'
+import { PoliticalParty, InvalidVotes, CandidateResult, Dutch2021, Candidate } from '../../src'
 
 describe('Dutch', () => {
   it('2021', () => {

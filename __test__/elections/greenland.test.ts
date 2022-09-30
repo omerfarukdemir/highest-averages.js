@@ -1,9 +1,4 @@
-import { PoliticalParty } from '../../src/models/political_party'
-import { InvalidVotes } from '../../src/models/invalid_votes'
-import { Candidate } from '../../src/models/candidate'
-import { CandidateResult } from '../../src/models/candidate_result'
-import { IndependentPolitician } from '../../src/models/independent_politician'
-import { Greenland2018, Greenland2021 } from '../../src/elections/greenland'
+import { PoliticalParty, InvalidVotes, Candidate, CandidateResult, IndependentPolitician, Greenland2018, Greenland2021 } from '../../src'
 
 describe('greenland', () => {
   it('2018', () => {

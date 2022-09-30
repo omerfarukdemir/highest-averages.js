@@ -1,4 +1,4 @@
-import { Pair } from "../src/utilities/pair"
+import { Pair } from '../../src'
 
 describe("values", () => {
     it("should return same", () => {
