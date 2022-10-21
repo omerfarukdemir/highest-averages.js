@@ -1,5 +1,5 @@
 # highest-averages
-This is set of highest averages methods for allocating seats in a parliament.
+Zero-dependency and extensible set of highest averages methods for allocating seats in a parliament.
 ### Install
 ```shell
 npm i highest-averages
